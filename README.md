@@ -68,6 +68,4 @@ This project demonstrates a Linux Shell Script that displays useful system infor
 - Bash Shell Scripting
 - System Monitoring Commands
 
----
 
-## 📂 Project Structure
