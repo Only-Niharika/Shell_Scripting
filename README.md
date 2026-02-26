@@ -17,47 +17,47 @@ This project demonstrates a Linux Shell Script that displays useful system infor
 
 ## Task 1 :- Welcome User with Username Greeting  
 
-![Task 1 Screenshot](./screenshots/Mini_Project_1.png)
-![SH file](./screenshots/Project_1_sh_file.png)
+![Task 1 Screenshot](./Screenshots/Mini_Project_1.png)
+![SH file](./Screenshots/Project_1_sh_file.png)
 
 ---
 
 ## Task 2 :- Show Current Date and Time  
 
-![Task 1 Screenshot](./screenshots/Mini_Project_2.png)
-![SH file](./screenshots/Project_2_sh_file.png)
+![Task 1 Screenshot](./Screenshots/Mini_Project_2.png)
+![SH file](./Screenshots/Project_2_sh_file.png)
 
 
 ---
 
 ## Task 3 :- Show Server Uptime and Last Logins  
 
-![Task 1 Screenshot](./screenshots/Mini_Project_3.png)
-![SH file](./screenshots/Project_3_sh_file.png)
+![Task 1 Screenshot](./Screenshots/Mini_Project_3.png)
+![SH file](./Screenshots/Project_3_sh_file.png)
 
 
 ---
 
 ## Task 4 :- Show Disk Space and RAM Utilization  
 
-![Task 1 Screenshot](./screenshots/Mini_Project_4.png)
-![SH file](./screenshots/Project_4_sh_file.png)
+![Task 1 Screenshot](./Screenshots/Mini_Project_4.png)
+![SH file](./Screenshots/Project_4_sh_file.png)
 
 
 ---
 
 ## Task 5 :- Show Top CPU Processes  
 
-![Task 1 Screenshot](./screenshots/Mini_Project_5.png)
-![SH file](./screenshots/Project_5_sh_file.png)
+![Task 1 Screenshot](./Screenshots/Mini_Project_5.png)
+![SH file](./Screenshots/Project_5_sh_file.png)
 
 
 ---
 
 ## Task 6 :- Additional Beautification and Extra Commands  
 
-![Task 1 Screenshot](./screenshots/Mini_Project_6.png)
-![SH file](./screenshots/Project_6_sh_file.png)
+![Task 1 Screenshot](./Screenshots/Mini_Project_6.png)
+![SH file](./Screenshots/Project_6_sh_file.png)
 
 
 ---
